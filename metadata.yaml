@@ -1,5 +1,8 @@
 _repo: The-Sylphs-of-the-Season-with-Other-Poems_11059
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allston, Washington
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3817
     wikipedia: http://en.wikipedia.org/wiki/Washington_Allston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11059#The-Sylphs-of-the-Season-with-Other-Poems
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
